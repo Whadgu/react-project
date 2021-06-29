@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Whadgu/react-project.git/static/css/main.c45f9839.chunk.css",
+    "main.js": "/Whadgu/react-project.git/static/js/main.23e7bed8.chunk.js",
+    "main.js.map": "/Whadgu/react-project.git/static/js/main.23e7bed8.chunk.js.map",
+    "runtime-main.js": "/Whadgu/react-project.git/static/js/runtime-main.a90624f2.js",
+    "runtime-main.js.map": "/Whadgu/react-project.git/static/js/runtime-main.a90624f2.js.map",
+    "static/js/2.af516f2c.chunk.js": "/Whadgu/react-project.git/static/js/2.af516f2c.chunk.js",
+    "static/js/2.af516f2c.chunk.js.map": "/Whadgu/react-project.git/static/js/2.af516f2c.chunk.js.map",
+    "static/js/3.413cdd4a.chunk.js": "/Whadgu/react-project.git/static/js/3.413cdd4a.chunk.js",
+    "static/js/3.413cdd4a.chunk.js.map": "/Whadgu/react-project.git/static/js/3.413cdd4a.chunk.js.map",
+    "index.html": "/Whadgu/react-project.git/index.html",
+    "static/css/main.c45f9839.chunk.css.map": "/Whadgu/react-project.git/static/css/main.c45f9839.chunk.css.map",
+    "static/js/2.af516f2c.chunk.js.LICENSE.txt": "/Whadgu/react-project.git/static/js/2.af516f2c.chunk.js.LICENSE.txt",
+    "static/media/image0.8df1112d.jpeg": "/Whadgu/react-project.git/static/media/image0.8df1112d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a90624f2.js",
+    "static/js/2.af516f2c.chunk.js",
+    "static/css/main.c45f9839.chunk.css",
+    "static/js/main.23e7bed8.chunk.js"
+  ]
+}
